@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestGitPull1Project
+  gitServerName: SanthoshKAccount1D
+  gitUrl: https://github.com/santhu736852/TestGitPull1Project
+  gitUsername: santhu736852
+  gitBranch: main
